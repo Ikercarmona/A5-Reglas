@@ -1,4 +1,4 @@
-# A5-ReglasCSS
+# A5-Reglas
 REGLA 1: En body seria un margen de 0 px y la fuente quicksand
 REGLA 2: Un id que tenga un height de 100 vh, un background image, un background position, y un background size.
 REGLA 3: Un identificador en el PRIMER div (el primer div es el header) para h1 que ponga las letras margen 0 padding 0 20px y un tamaño de fuente 50px
