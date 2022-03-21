@@ -16,7 +16,7 @@ REGLA 7: En la hoja de estilos poner h2 con una fuente, la que quieras, yo use '
 
 REGLA 8: En la primera p abra un link a un video que se tiene que ver sin decoracion ni subrallado ni nada y de color azul.
 
-REGLA 9: Un iframe conm un video en el segundo div que tenga un ancho del 100% y una altura de 400px
+REGLA 9: Un iframe con un video en el segundo div que tenga un ancho del 100% y una altura de 400px
 
 REGLA 10: Una clase con imagen que tenga un ancho de 100%   
 
